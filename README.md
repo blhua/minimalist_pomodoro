@@ -11,6 +11,6 @@ In this version, Gary Peng's concept is translated to a simple Tkinter GUI with 
 <img width="706" alt="image" src="https://github.com/user-attachments/assets/4490355f-ab1d-4d5b-8796-d09914de4c3e" />
 
 
-# Usage
+## Usage
 
 `python pomodoro.py`
